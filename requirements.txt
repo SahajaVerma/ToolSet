@@ -1,0 +1,35 @@
+Hope You're Having a Nice Time..
+
+Anyways...
+
+==========
+
+If You're Using Termux then Install Packages Like :
+git , pip , curl  , php , openssh , ruby
+
+===========
+COMMANDS FOR TERMUX...
+
+pkg install git pip curl php openssh ruby
+
+==========
+
+Using SetTools...
+
+apt update && apt install git
+
+git clone https://github.com/SahajaVerma/SetTools.git`
+
+cd Tool-X
+
+chmod +x install
+
+sh install
+
+OR
+(if not work than use)
+
+./install
+
+==========
+
